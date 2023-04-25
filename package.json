@@ -2,6 +2,7 @@
   "name": "jobfinder",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://alffonsomv.github.io/JobFinder",
   "type": "module",
   "scripts": {
     "dev": "vite",
